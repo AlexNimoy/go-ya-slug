@@ -8,6 +8,24 @@
 $ go get github.com/alexnimoy/go-ya-slug
 ```
 
+## Usage
+
+```Go
+package main
+
+import (
+	"fmt"
+
+	yaslug "github.com/alexnimoy/go-ya-slug"
+)
+
+func main() {
+	url := yaslug.Url("Урл url")
+	fmt.Println(url) //=> url-url
+
+}
+```
+
 ## License
 
 MIT
