@@ -1,14 +1,14 @@
 # URL по правилам Yandex на Golang
 
-[![Release](https://img.shields.io/github/release/deweppro/go-badges.svg?style=flat-square)](https://github.com/deweppro/go-badges/releases/latest)
-[![CI](https://github.com/deweppro/go-badges/actions/workflows/ci.yml/badge.svg)](https://github.com/deweppro/go-badges/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/release/alexnimoy/go-ya-slug.svg?style=flat-square)](https://github.com/alexnimoy/go-ya-slug/releases/latest)
+[![CI](https://github.com/alexnimoy/go-ya-slug/actions/workflows/go.yml/badge.svg)](https://github.com/alexnimoy/go-ya-slug/actions/workflows/go.yml)
 
 Правильные URL повышают шансы выйти на первые позиции в SERP. Страницы с корректным транслитерированным адресом поисковик ранжирует выше.
 
 ## Install
 
 ```
-$ go get github.com/alexnimoy/go-ya-slug
+$ go get -u github.com/alexnimoy/go-ya-slug
 ```
 
 ## Usage
